@@ -3,10 +3,10 @@ using namespace std;
 
 int main()
 {
-    int num,mul;
+    int num,mul=1;
     cout<<endl<<"HELLO!"<<endl;
-    cout<<"Enter numbers to multiply (Ctrl+Z or Ctrl+D to stop):";
-    cin>>num;
+    cout<<"(enter Ctrl+Z or Ctrl+D or any non-numeric character to stop)"<<endl<<"Enter numbers to multiply :";
+    
     while (cin >> num)
     {
         mul *= num;
