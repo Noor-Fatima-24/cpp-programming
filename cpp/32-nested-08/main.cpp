@@ -2,6 +2,7 @@
 08:
    Hollow Pyramid Pattern
 
+   
         * 
       *   *
     *       * 
