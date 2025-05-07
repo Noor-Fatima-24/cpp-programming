@@ -5,7 +5,7 @@
 123
 
 3
-32
+32 
 321
 
 1
@@ -27,7 +27,7 @@ int main()
     int c=6;
     for (int i = 1; i <= 3; i++)
     {
-        for (int j = 1; j <= i; j++)
+        for (int j = 1; j <= 3; j++)
     {
        cout<<c;
        c--;
