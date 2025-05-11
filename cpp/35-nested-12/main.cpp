@@ -1,3 +1,12 @@
+
+/*
+
+123
+45
+6 
+
+*/
+
 #include<iostream>
 using namespace std;
 
