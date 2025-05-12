@@ -26,20 +26,17 @@ int main()
     int s=3;
     for (int i = 1; i <= 4; i++)
     {
-        for (int j = 1; j <= 4; j++)
+        for (int j = 1; j <= 4-i; j++)
         {
-        if ( 4 - i  == s)
-         {
-            cout<<" ";
-            s--;
-         }
-         else{
-            cout<<"*";
-         }  
+        cout<<" ";
         }
+        for (int m = 1; m <= 4; m++)
+        {
+            cout<<"*";
+        }
+        
         cout<<endl;
     }
     
     return 0;
 }
-// to be continue...
