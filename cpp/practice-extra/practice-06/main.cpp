@@ -55,12 +55,15 @@ using namespace std;
    123
   1234
 
+
+
+
 basic logic for all time loop
 
 1) : outer loop
 2) : inner loop
 3) : element sequence
-4) : space logic
+4) : space logic (not for all)
 
 */
 
