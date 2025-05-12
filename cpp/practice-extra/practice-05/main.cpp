@@ -6,10 +6,15 @@ before
 **
 ***
 after
-    ---*   total no.of col  - current row no.  = space
+    ---*    
     --**
-    -***   4 - 3 = 1
+    -***    4 - 3 = 1         total no.of col  - current row no.  = space
     ****
+logic:
+       1): no.symbol = no.row 
+       2): total no.of col  - current row no.  = space
+    so for space s must be <= ( 4 - i )
+
 
 */
 #include<iostream>
@@ -22,7 +27,15 @@ int main()
     {
         for (int j = 1; j <= 4; j++)
     {
+       if (  j <= (  4 - i ) )
+       {
+        cout<<" ";
+       }
+       else
+       {
         cout<<"*";
+       }
+        
     }
     cout<<endl;
     }
