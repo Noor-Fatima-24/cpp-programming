@@ -1,3 +1,13 @@
+/*
+
+rhombus pattren:
+
+   ****
+  ****
+ ****
+****
+
+*/
 #include<iostream>
 using namespace std;
 

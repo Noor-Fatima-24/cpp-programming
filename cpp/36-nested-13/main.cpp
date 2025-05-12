@@ -1,4 +1,13 @@
+/*
+binary pattren / 0/1 pattren:
 
+1
+01
+101
+0101
+10101
+
+*/
 #include<iostream>
 using namespace std;
 
