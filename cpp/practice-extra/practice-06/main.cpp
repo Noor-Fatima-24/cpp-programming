@@ -15,7 +15,7 @@
    234
   1234
 
-  1234  reverse of outter
+  1234    reverse of outter loop as a change is noticed in pattrens shape
    123
     12
      1
@@ -27,13 +27,13 @@ using namespace std;
 
 int main()
 {
-    for (int i = 1; i <= 4; i++)
+    for (int i = 4; i >= 1; i--)
     {
-        for (int s = 1; s <= 4-i ; s++)
+        for (int s = i; s <= 4 ; s++)
         {
             cout<<" ";
         }
-        for (int j = 4; j >= 4; j--)
+        for (int j = 1; j <= i; j++)
         {
             cout<<j;
         }
