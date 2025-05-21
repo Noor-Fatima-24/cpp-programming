@@ -4,6 +4,7 @@
 
  Input: 5 elements, Output: print them all
  without loop.
+ 
 */
 
 #include<iostream>
