@@ -11,6 +11,7 @@ logic: if No.row + No.col = even no.  so print "1"
 0101  
 
 */
+
 #include<iostream>
 using namespace std;
 
@@ -33,3 +34,5 @@ int main()
     
     return 0;
 }
+    
+   
