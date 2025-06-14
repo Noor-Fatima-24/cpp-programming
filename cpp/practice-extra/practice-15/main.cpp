@@ -1,4 +1,4 @@
-//// Q1: Take input of two numbers and print their sum, difference, product, and division.
+//Q1: Take input of two numbers and print their sum, difference, product, and division.
 #include<iostream>
 using namespace std;
 int main()
