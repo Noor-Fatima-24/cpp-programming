@@ -1,15 +1,15 @@
 // Q6: Simple Calculator using switch-case (add, subtract, multiply, divide)
-#include<iostream>
+#include<iostream> 
 using namespace std;
 
 int main()
 {
     double a,b;
     char sym;
-    cout<<"Enter two number : ";
+    cout<<"Enter two number : "<<endl;
     cin>>a>>b;
 
-    cout<<"Enter symbol : + or - or * or / :";
+    cout<<"Enter symbol : "+" or "-"or "*" or "/" :"<<endl;
     cin>>sym;
 
     switch (sym)
