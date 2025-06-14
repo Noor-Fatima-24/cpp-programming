@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int a,i=1;
-    cout<<"Enter a number (1-10) : ";
+    cout<<"Enter a number (1-10) : "; 
     cin >> a;
     if ( a <= 10 && a >= 1 )
     {
