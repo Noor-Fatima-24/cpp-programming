@@ -1,11 +1,11 @@
 // Q5: Take marks of 5 subjects, calculate percentage, and print grade:
 // >=90 A+, >=80 A, >=70 B, >=60 C, >=50 D, else F
-#include<iostream>
+#include<iostream> 
 using namespace std;
 
 int main()
 {
-    float s1,s2,s3,s4,s5,p,g;
+    float s1,s2,s3,s4,s5,p;
     cout<<"Enter marks of five subjects : ";
     cin>>s1>>s2>>s3>>s4>>s5;
 
