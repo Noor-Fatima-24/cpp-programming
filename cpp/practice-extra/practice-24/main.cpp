@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    cout<<"All even numbers : ";
     for (int i = 1; i <= 100; i++)
     {
         if (i%2 == 0)
@@ -11,7 +12,7 @@ int main()
             cout<<i<<endl;
         }
         
-    }
+    } 
     
     return 0;
 }
