@@ -1,7 +1,7 @@
 // Q3: Take a number and check whether it is even or odd.
 #include<iostream>
 using namespace std;
-
+ 
 int main()
 {
     int n;
