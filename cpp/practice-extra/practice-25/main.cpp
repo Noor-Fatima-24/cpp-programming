@@ -1,7 +1,7 @@
 // Q9: Take a number and print factorial using a loop.
 // Example: 5! = 5×4×3×2×1 = 120
-#include<iostream>
-using namespace std;
+#include<iostream> 
+using namespace std; 
 
 int main()
 { 
