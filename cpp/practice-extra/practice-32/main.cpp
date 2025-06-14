@@ -24,7 +24,7 @@ for (int i = 0; i < n; i++)
 {
     cout<<arr[i]<<endl;  
 }
-
+ 
     cout<<"sum = "<<sum<<endl;
     avg = sum / n;
     cout<<"avg = "<<avg;
