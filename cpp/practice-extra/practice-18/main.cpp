@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+    cout<<"Hello :)"<<endl;
     int a,b,c;
     cout<<"Enter three numbers : ";
     cin>>a>>b>>c;
