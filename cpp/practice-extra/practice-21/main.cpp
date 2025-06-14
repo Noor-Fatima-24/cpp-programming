@@ -1,6 +1,6 @@
 // Q7: Print the table of any number entered by user (1 to 10).
-// 2*2=4  n*c=n*c
-#include<iostream>
+// by for loop
+#include<iostream> 
 using namespace std;
 
 int main()
@@ -12,7 +12,7 @@ int main()
     {
         for (int i = 1; i <= 10; i++)
        {
-        cout<<a <<" * "<<i<<" = "<<a*i<<endl;;
+        cout<<a <<" * "<<i<<" = "<<a*i<<endl;
        }
     }
     else{
