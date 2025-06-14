@@ -5,7 +5,8 @@ using namespace std;
 int main()
 {
     double r,a,c;
-    cout<<"Enter radius :";
+    cout<<"Hello :)"<<endl;
+    cout<<"Enter radius :"; 
     cin>>r;
     a =  (3.14)*(r*r);
     c =  2*(3.14)*r;
