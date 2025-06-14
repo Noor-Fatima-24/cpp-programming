@@ -1,6 +1,6 @@
 // Q7: Print the table of any number entered by user (1 to 10).
 // by while loop
-#include<iostream>
+#include<iostream> 
 using namespace std;
 
 int main()
@@ -13,7 +13,7 @@ int main()
         while (i <= 10)
        {
         cout<<a <<" * "<<i<<" = "<<a*i<<endl;
-        i++;
+        i++; 
        }
     }
     else{
