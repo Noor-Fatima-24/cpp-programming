@@ -9,7 +9,7 @@ int ex(int a,int b)
     return 0;
 }
 
-int main()
+int main() 
 {
     int a,b;
     a=2;
