@@ -7,7 +7,7 @@ int sum(int arr[5],int n)
     for (int i = 0; i <= 4; i++)
     {
         n=n+arr[i];
-         
+          
     }
     cout<<n;
     return 0;
@@ -16,7 +16,7 @@ int sum(int arr[5],int n)
 int main()
 {
     int arr[5],n;
-    cout<<"E";
+    cout<<"Enter";
     for (int i = 0; i <=4; i++)
     {
         cin>>arr[i];
