@@ -9,7 +9,7 @@ int sum(int arr[5], int key)  // Removed unnecessary 'n' and moved check inside
         if (arr[i] == key)
         {
             check = false;
-            return i;
+            return i; 
         }
     }
     if (check == true)
