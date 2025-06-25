@@ -1,13 +1,17 @@
 // pointers in cpp
 #include<iostream>
-using namespace std;
+using namespace std; 
 
 int main() {
     int x = 20;
-    int* ptr = &x;
-  cout<<"p"<<ptr<<endl;
+    int* ptr = &x;  // pointer to x
+
+    cout << "Address of x (ptr): " << ptr << endl;
+
     *ptr = 50;  // change value of x using pointer
-cout<<"n"<<ptr;
-    cout << "New value of x: " << x;  // Output: 50
+
+    cout << "Address of x (ptr) after change: " << ptr << endl;
+    cout << "New value of x: " << x << endl;  // Output: 50
+
     return 0;
 }
