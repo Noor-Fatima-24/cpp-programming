@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main() 
+int main()
 {
     int arr[5],sum=0;
     cout<<"Enter 5 numbers : ";
