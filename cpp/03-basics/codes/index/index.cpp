@@ -2,12 +2,8 @@
 using namespace std;
 int main()
 {
-    int a,b;
-    cout<<"a=";
-    cin>>a;
-    cout<<"b=";
-    cin>>b;
-    cout<<a<<"\a";
-    cout<<b<<"\a";
+    int a,b,c;
+  a , b , c = 20 , 30 , 40;
+  cout << a<<b<<c
 return 0;
 }
