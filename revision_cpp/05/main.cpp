@@ -9,7 +9,7 @@ Use arithmetic operators (+, *, /) to perform calculations.    */
 
 #include <iostream>
 using namespace std;
-
+ 
 int main()
  {
     const float PI = 3.14;   // Constant value by const qualifer declaration mehthod
