@@ -1,0 +1,1 @@
+string fullword = firstword + lastword;
