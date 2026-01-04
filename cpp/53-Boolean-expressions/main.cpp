@@ -14,10 +14,18 @@ cout << r1 << endl << r2 << endl<< r3 << endl<< r4 << endl;
 
 //Using a boolean variable directly
 bool c = true;
+bool d = false;
+cout << c << endl << d << endl;
 
-if (c) {
-    cout << "You are a coder";
+//Using logical operators
+int age = 20;
+bool hasID = true;
+
+if (age >= 18 && hasID) {
+    cout << "Allowed";
 }
+
+
 
 
 
