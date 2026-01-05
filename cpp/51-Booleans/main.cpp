@@ -6,7 +6,7 @@ int main()
 {
     bool a , b ;
     cout << "enter 1 for true and 0 for false" << endl;
-    cout<< boolalpha ;
+    cout<< boolalpha;
     cout <<"are u a coder ?" << endl;
     cin >> a ;
     cout << "are u a coder ? ans = " << a << endl;
