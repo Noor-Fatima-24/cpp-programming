@@ -8,24 +8,12 @@ int main() {
 
     int result = a.compare(b);
     cout << result;
-
-    
-
-
-
-
-
      //Using Index Range Comparison
      
         string st1 = "Programming";
         string st2 = "Program";
 
         cout << endl << st1.compare(0,7,st2) << endl ;
-
-
-
-
-
 
      /*Alternative Way (Using Operators)
      string s1="20";
