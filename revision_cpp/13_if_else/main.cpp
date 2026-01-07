@@ -6,15 +6,12 @@ int main() {
     int num;
     cout << "Enter a number: ";
     cin >> num;
-
-    if (num > 0)
-     {
+    if (num > 0) {
         cout << "The number is positive";
     }
-    else 
-    {
+    else  {
         cout << "The number is negative or zero";
     }
-
     return 0;
 }
+
