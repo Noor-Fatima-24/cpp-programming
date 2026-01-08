@@ -1,9 +1,9 @@
-//Problem: Check age and ID for permission
+//Problem: Check age and ID for permission granting 
 #include <iostream>
 using namespace std;
 
 int main() {
-    int age = 10;
+    int age = 10; 
     int id = 0;
 
     if (age >= 18) {
