@@ -3,7 +3,8 @@
 using namespace std;
 
 int main() {
-    char op = '/'; 
+    int a = 10 , b = 15 ;
+    char op = '+'; 
 
     switch(op) {
         case '+': cout << a + b; break; // 15
