@@ -1,0 +1,16 @@
+//Example 2: Simple Calculator
+#include <iostream>
+using namespace std;
+
+int main() {
+    char op = '/'; 
+
+    switch(op) {
+        case '+': cout << a + b; break; // 15
+        case '-': cout << a - b; break;
+        case '*': cout << a * b; break;
+        case '/': cout << a / b; break;
+        default: cout << "Invalid Operator";
+    }
+    return 0;
+}
