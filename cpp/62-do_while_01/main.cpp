@@ -8,7 +8,7 @@ int main() {
     cout << "Enter a number: ";
     cin >> n; 
 
-    do {
+    do { 
         sum += i;  
         i++; 
     } while (i <= n);
